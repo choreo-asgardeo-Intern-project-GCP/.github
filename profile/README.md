@@ -10,9 +10,9 @@ Digitalizing the way of obtaining Grama Certificates with ease.
 - Rukshan Fernando<br/>
 
 ### Architecture Diagram<br/>
-Backend:- https://drive.google.com/file/d/1cik_pejCjJps-zF0o3w2-MR_YspHp3wz/view?usp=sharing
+Backend:- https://app.diagrams.net/#G1cik_pejCjJps-zF0o3w2-MR_YspHp3wz
 <br/>
-Outdated:- https://drive.google.com/file/d/1GzIUGJAk_GV7AqPv96NqyCfiLS-MdCLQ/view?usp=sharing
+Outdated:- https://app.diagrams.net/#G1GzIUGJAk_GV7AqPv96NqyCfiLS-MdCLQ
 
 ### API Documentation<br/>
 https://docs.google.com/spreadsheets/d/1WDbDXHHMucXloEY8fIJRKHhRYpPcTzUU5rlg8t_WUjg/edit?usp=sharing
