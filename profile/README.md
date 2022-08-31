@@ -10,10 +10,10 @@ Digitalizing the way of obtaining Grama Certificates with ease.
 - Rukshan Fernando<br/>
 
 ### Architecture Diagram<br/>
-
+https://storage.cloud.google.com/choreo-asgardeo-intern-project.appspot.com/Architecture-Diagram.png
 
 ### API Documentation<br/>
 https://docs.google.com/spreadsheets/d/1WDbDXHHMucXloEY8fIJRKHhRYpPcTzUU5rlg8t_WUjg/edit?usp=sharing
 
 ### CI/CD Workflow<br/>
-https://drive.google.com/file/d/1tRnQOitxAMZXRZWvp2n6q3t1LfV1-luJ/view?usp=sharing
+https://storage.cloud.google.com/choreo-asgardeo-intern-project.appspot.com/CI-CD.png
