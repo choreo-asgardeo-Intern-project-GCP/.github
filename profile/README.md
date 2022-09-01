@@ -19,4 +19,4 @@ https://docs.google.com/spreadsheets/d/1WDbDXHHMucXloEY8fIJRKHhRYpPcTzUU5rlg8t_W
 https://storage.cloud.google.com/choreo-asgardeo-intern-project.appspot.com/CI-CD.png
 
 ### Project Documentation<br/>
-https://docs.google.com/document/d/1ibyUn9UDlws_cW7e8rdIyMTIt7GUimfP/edit?usp=sharing&ouid=101847389759799049273&rtpof=true&sd=true
+[https://docs.google.com/document/d/1ibyUn9UDlws_cW7e8rdIyMTIt7GUimfP/edit?usp=sharing&ouid=101847389759799049273&rtpof=true&sd=true](https://drive.google.com/file/d/1iMTiWswBEZa7UsFJBgKixlGCs3B7Vuep/view?usp=sharing)
